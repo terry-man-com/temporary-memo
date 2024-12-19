@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../Step5 javascript基礎"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Step5 javascript基礎"
+  }
+}
